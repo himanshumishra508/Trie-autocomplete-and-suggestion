@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
+#include <math.h>
+
 
 #define ALPHABET_SIZE (26)
 #define CHAR_TO_INDEX(c) ((int)c - (int)'a')
